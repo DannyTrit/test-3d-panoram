@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ceee4bb2.css",
+    "main.js": "/static/js/main.0ec7d0cd.js",
+    "static/js/453.db70b929.chunk.js": "/static/js/453.db70b929.chunk.js",
+    "static/media/barcelona_1.jpg": "/static/media/barcelona_1.a3a5c3cfc86241b72499.jpg",
+    "static/media/Preload.webm": "/static/media/Preload.b4a2a808f53c8eb72253.webm",
+    "static/media/Preload.jpg": "/static/media/Preload.7419f4cbc8626538e27e.jpg",
+    "static/media/barcelona_2.jpg": "/static/media/barcelona_2.243892487048a26275e4.jpg",
+    "static/media/map.png": "/static/media/map.a66d5d64be95c7772695.png",
+    "static/media/preview_2.jpg": "/static/media/preview_2.1d2ee06fe5fc774dcd56.jpg",
+    "static/media/preview_1.jpg": "/static/media/preview_1.22b303f137a4dedb44a2.jpg",
+    "index.html": "/index.html",
+    "main.ceee4bb2.css.map": "/static/css/main.ceee4bb2.css.map",
+    "main.0ec7d0cd.js.map": "/static/js/main.0ec7d0cd.js.map",
+    "453.db70b929.chunk.js.map": "/static/js/453.db70b929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceee4bb2.css",
+    "static/js/main.0ec7d0cd.js"
+  ]
+}
